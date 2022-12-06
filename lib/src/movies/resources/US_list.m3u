@@ -1,0 +1,202 @@
+#EXTM3U
+#PLAYLIST:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",(ONLINE) Comet TV (Geo),Comet TV (Geo)
+http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/dc/4f/bb/dc4fbb86-fb91-7803-17ad-9e26c5bc61f0/pr_source.png/246x0w.jpg" group-title="Undefined",(ONLINE) Gracia TV,Gracia Tv
+http://v3.tustreaming.cl/graciatv/live1/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/SC5nyyL.png" group-title="Undefined",(ONLINE) NWCT 12 Minnesota,CCX Media Minnesota,CCX1
+http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",(ONLINE) SBT PE Interior,SBT Pernambuco
+http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://newsymain-npgroup.netdna-ssl.com/images/settings/150228249385.jpg" group-title="Undefined",(ONLINE) USA:Newsy,Newsy
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/SlS8xic.png" group-title="Local;Undefined",(ONLINE) WSVI-TV,Ion 8 Christiansted VI (WSVI-TV),WSVI TV,WSVI-TV
+http://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://graph.facebook.com/24htve/picture?width=320&height=320" group-title="Undefined",+24,+24 Eventos 4
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://graph.facebook.com/24htve/picture?width=320&height=320" group-title="Undefined",+24,+24 Eventos 2
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve03_lv3_aosv4_gl0/irtve03_lv3_aosv4_gl0.isml/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",1 TV (Opt-2)
+http://amtv1.livestreamingcdn.com/am2abr/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",1 TV (Opt-3)
+http://amtv1.livestreamingcdn.com/am2abr/tracks-v5a1/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://scripps.com/wp-content/uploads/2019/01/local_media_23_abc.png" group-title="Local",23 ABC (KERO)
+https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24 Horas (Opt-2)
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve02_lv3_aosv4_gl0/irtve02_lv3_aosv4_gl0.isml/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24/7 Digital Concert Hall (New!)
+http://m3ukodi.com/canales/digitalconcerthall.php?a=247&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US;VN" tvg-logo="" group-title="Undefined",24/7 Doraemon,Doraemon (Opt-1)
+https://ws.flv.nimo.tv/live/su1599512427553r467469e0bc83c5de73f4d151682fb530_high.flv?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg" group-title="Movies",24/7 Retro TV
+http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Kids;Undefined",24/7 Super Geek Heroes,Super Geek Heroes,Super Geek Heroes (Kids)
+https://vcnyellowspot.teleosmedia.com/stream/yellowspot/super-geek-heros/seglist_720p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",24h TVE WEB
+http://51.79.96.89:25461/public-list/token=20d10m2019a/283?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/CKCtZo7.png" group-title="Undefined",30A Investment Pitch
+http://www.30a-tv.com/InvPit.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/gNWg9tl.png" group-title="Music",30A Music
+http://30a-tv.com/music.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://www.sidewalkstv.com/wp-content/uploads/2013/10/sw-tep-large-300x125.png" group-title="Undefined",30A Sidewalks
+http://30a-tv.com/sidewalks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/4TEMhxH.png" group-title="Undefined",30A TV
+http://30a-tv.com/my999.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/GVZuKc7.png" group-title="Undefined",3ABN,US | 3ABN
+https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/HQs/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",3ABN
+http://doubleagechanmain.com:80/123456/123456/10848?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/zI6jr9L.png" group-title="Undefined",3ABN Dare to Dream,US | 3ABN Dare to Dream
+https://moiptvhls-i.akamaihd.net/hls/live/652313/secure/HQs/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/V6bL5MJ.png" group-title="Undefined",3ABN Français,US | 3ABN Français
+https://moiptvhls-i.akamaihd.net/hls/live/652314/secure/HQs/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/vhb8zvB.png" group-title="Undefined",3ABN International,US | 3ABN International
+https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/HQs/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/eOvzf3d.png" group-title="Undefined",3ABN Kids,US | 3ABN Kids
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/HQs/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/4ydVVIA.png" group-title="Religious",3ABN Latino
+https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Religious",3ABN Latino
+http://uni5rtmp.tulix.tv:1935/bettervida/bettervida/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/DrGJhG3.png" group-title="Undefined",3ABN Latino,US | 3ABN Latino
+https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/HQs/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/XzQ3Cpg.png" group-title="Undefined",3ABN Praise Him Music Channel,US | 3ABN Praise Him Music Channel
+https://moiptvhls-i.akamaihd.net/hls/live/554145/secure/HQs/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/KiMtKUL.png" group-title="Undefined",3ABN Proclaim!,US | 3ABN Proclaim!
+https://moiptvhls-i.akamaihd.net/hls/live/652317/secure/HQs/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/8fKWpo3.png" group-title="Undefined",3ABN Russia,US | 3ABN Russia
+https://moiptvhls-i.akamaihd.net/hls/live/652316/secure/HQs/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/XgF6S22.png" group-title="News;Undefined",3News Now (KMTV-TV),CBS 3 KMTV,US | Omaha | CBS 3 KMTV
+http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",5 STAR MAX FHD
+http://h2.dimapro.cz:8080/N2vdf6yju0/LflBfKJ5AN/39063?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",5 StarMax HD 1080P
+http://ux.mytvxweb.me:25461/Pr/1234/323541?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AR;US" tvg-logo="https://i.imgur.com/kujnLsO.png" group-title="Undefined",5TV Corrientes,AR | 5TV Corrientes
+http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/Z5Wo5an.png" group-title="Local;Undefined",7News Boston (WHDH),CW 7 WHDH,US | Boston | CW 7 WHDH
+https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master_540-57.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png" group-title="Local",7News Boston (WHDH)
+https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",88 Stereo
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",A&E
+http://wearemuttsnuts.for-more.biz:8080/Leeannboy/20masonstv20/115652?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",A&E
+http://heinentv.ddns.net:25461/858/1234/28215?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/zl7Gzwm.png" group-title="Undefined",A&E,US | A&E
+https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",A&E
+http://cdn.miip.tv:8080/canada/123456/525?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",A&E
+http://best-servers.xyz:8000/aziz2020/2020aziz/7832?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",A&E
+http://uk4321.com:8080/P75CX5KoB0/WBdYJjzfHf/6024?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",A&E
+http://iptvbest.org:80/tomcopp/3ptvyjvb7T/2786?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",A&E
+http://doubleagechanmain.com:80/123456/123456/1481?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",A&E
+http://iptv.ktvstreams.com:826/leo123/12345/102131?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",A&E BACKUP
+http://iptv.ktvstreams.com:826/leo123/12345/102132?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",A&E Low
+http://iptv.ktvstreams.com:826/leo123/12345/105853?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC
+http://heinentv.ddns.net:25461/858/1234/28213?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC
+http://best-servers.xyz:8000/aziz2020/2020aziz/7835?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC
+http://wearemuttsnuts.for-more.biz:8080/Leeannboy/20masonstv20/115654?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC
+http://207.38.89.242:8080/live/2993/2993/14622.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 10 Miami
+http://heinentv.ddns.net:25461/858/1234/28216?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 2 Atlanta
+http://heinentv.ddns.net:25461/858/1234/28218?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/WBRZ_Logo_2013.png" group-title="Local;Undefined",ABC 2 Baton Rouge LA (WBRZ-HD),WBRZ-TV (Baton Rouge)
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 7 Chicago
+http://doubleagechanmain.com:80/123456/123456/1482?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/JExsI09.png" group-title="Undefined",ABC 7 KMGH,US | Denver | ABC 7 KMGH
+https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 7 Los Angeles
+http://heinentv.ddns.net:25461/858/1234/28222?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 7 Los Angeles
+http://doubleagechanmain.com:80/123456/123456/1483?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 7 NY
+http://51.79.96.89:25461/public-list/token=20d10m2019a/55?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 7 New York
+http://heinentv.ddns.net:25461/858/1234/28223?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC 7 New York
+http://doubleagechanmain.com:80/123456/123456/1484?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Local",ABC 9 Chattanooga TN (WTVC)
+http://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC Atlanta
+http://ultraplay.biz:80/ziggy/ziggy/52758?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC DALLAS
+http://cdn.miip.tv:8080/canada/123456/2647?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC Fresno HD 1080P
+http://ux.mytvxweb.me:25461/Pr/1234/331232?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC HD
+http://vlc.news:9000/live/sharpstar_955951/MG4z24H0/99211.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC Los Angeles HD 1080P
+http://ux.mytvxweb.me:25461/Pr/1234/331236?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC Miami HD 1080P
+http://ux.mytvxweb.me:25461/Pr/1234/331237?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC NEW YORK WABC
+http://iptvbest.org:80/tomcopp/3ptvyjvb7T/2790?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC NY FHD 1080P
+http://ux.mytvxweb.me:25461/Pr/1234/323401?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC Nashville
+http://ultraplay.biz:80/ziggy/ziggy/52767?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC News
+http://heinentv.ddns.net:25461/858/1234/28226?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/V8eTp2V.png" group-title="News",ABC News Digital 9
+https://abclive1-lh.akamaihd.net/i/abc_live09@420891/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC News HD
+http://vlc.news:9000/live/sharpstar_955951/MG4z24H0/99212.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC News International
+https://abclive1-lh.akamaihd.net/i/abc_live04@423398/index_4000_av-b.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC News Live
+http://ux.mytvxweb.me:25461/Pr/1234/369025?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC Orlando HD 1080P
+http://ux.mytvxweb.me:25461/Pr/1234/331241?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC Philadelphia HD 1080P
+http://ux.mytvxweb.me:25461/Pr/1234/331242?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC Sacramento HD
+http://vlc.news:9000/live/sharpstar_955951/MG4z24H0/99213.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ABC San Francisco
+http://ultraplay.biz:80/ziggy/ziggy/52750?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ACC NETWORK
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/9876?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ACTIONMAX
+http://iptvbest.org:80/tomcopp/3ptvyjvb7T/2939?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",AD Sports 6
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports6&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",ADN 40
+https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",AE Mundo
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/9930?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/j6XPh2U.png" group-title="Undefined",AFV!,US | AFV!
+https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",AHC
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/9846?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/2nzRS60.png" group-title="Undefined",AKC TV,US | AKC TV
+https://video.blivenyc.com/broadcast/prod/2061/22/file-4692k.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/YNdQXDz.jpg" group-title="Undefined",AKC TV
+https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/YNdQXDz.jpg" group-title="Undefined",AKC TV
+https://video.blivenyc.com/broadcast/prod/2061/22/desktop-playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/YNdQXDz.jpg" group-title="Undefined",AKC TV
+https://video.blivenyc.com/broadcast/2061/22/file-858k.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/2nzRS60.png" group-title="Undefined",AKC TV - Meet the Breeds,US | AKC TV - Meet the Breeds
+https://video.blivenyc.com/broadcast/prod/2061/61/file-4692k.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/2nzRS60.png" group-title="Undefined",AKC TV - Puppies,US | AKC TV - Puppies
+https://video.blivenyc.com/broadcast/prod/2061/29/file-4692k.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",AMC
+http://live.faucontv.com:8000/aradaradian1360/zyw4X6Hby3/9759?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",AMC
+http://wearemuttsnuts.for-more.biz:8080/Leeannboy/20masonstv20/115657?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",AMC
+http://doubleagechanmain.com:80/123456/123456/1485?checkedby:iptvcat.com

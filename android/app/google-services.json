@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "145579454743",
+    "firebase_url": "https://vizion-9669c-default-rtdb.firebaseio.com",
+    "project_id": "vizion-9669c",
+    "storage_bucket": "vizion-9669c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145579454743:android:f4f86a9761bd1874a48752",
+        "android_client_info": {
+          "package_name": "com.example.tvapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145579454743-vt6d60f5gal8io94n69mma59428hnirn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNLENeoekm1MAUrkUGx0pbjqfGbnB1pI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145579454743-vt6d60f5gal8io94n69mma59428hnirn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
