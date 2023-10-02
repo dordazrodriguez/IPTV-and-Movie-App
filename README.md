@@ -4,7 +4,7 @@
 - Uses TMDB API to retrieve movie information such as year, name, and image. 
 - Developed 2 versions one with AWS backend and another with Firebase backend.
 
-<h2>How the app works:</h2>
+<h2>Overview of how the app works:</h2>
 <details>
 <summary>On-Demand Movie and TV Show Section: </summary>
   <ul>
