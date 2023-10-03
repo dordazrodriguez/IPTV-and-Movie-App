@@ -22,5 +22,5 @@
 
 <br/>
 
-![alt text](https://dordazrodriguez.github.io/img/works/tv.png)
+![alt text](./Assets/tv.png)
 
