@@ -23,6 +23,6 @@
 <br/>
 
 
-![alt text](./Assets/Screen_Recording_Compressed.mp4)
+![](./Assets/Screen_Recording_Compressed.mp4)
 ![alt text](./Assets/tv.png)
 
