@@ -23,6 +23,10 @@
 <br/>
 
 
+https://github.com/dordazrodriguez/IPTV-and-Movie-App/assets/40954709/54c2dfaf-f21d-47bd-9406-c2ec7312f82b
+
+
+
 ![](./Assets/Screen_Recording_Compressed.mp4)
 <video src="https://github.com/dordazrodriguez/IPTV-and-Movie-App/blob/main/Assets/Screen_Recording_Compressed.mp4" controls="controls" style="max-width: 730px;"></video>
 ![alt text](./Assets/tv.png)
