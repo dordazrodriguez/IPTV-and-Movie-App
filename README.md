@@ -24,5 +24,6 @@
 
 
 ![](./Assets/Screen_Recording_Compressed.mp4)
+<video src="https://github.com/dordazrodriguez/IPTV-and-Movie-App/blob/main/Assets/Screen_Recording_Compressed.mp4" controls="controls" style="max-width: 730px;"></video>
 ![alt text](./Assets/tv.png)
 
