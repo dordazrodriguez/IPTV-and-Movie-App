@@ -25,7 +25,7 @@
 
 
 https://github.com/dordazrodriguez/IPTV-and-Movie-App/assets/79417457/d3fa1633-e1ac-4d77-8e4d-454ae7d89a38
-<p>** Video stream sluggish due to it running on an emulated android TV device in the screen recording above. **</p>
+<p>** App may seem sluggish due to it running on an emulated android TV device in the screen recording above. **</p>
 
 ![](./Assets/Screen_Recording_Compressed.mp4)
 <video src="https://github.com/dordazrodriguez/IPTV-and-Movie-App/blob/main/Assets/Screen_Recording_Compressed.mp4" controls="controls" style="max-width: 730px;"></video>
